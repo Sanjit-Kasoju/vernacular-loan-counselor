@@ -77,26 +77,26 @@ This installs all required packages. It may take 3–5 minutes.
 
 ### Step 6 — Get Your Free API Keys
 
-#### 6a. Google Gemini API Key (FREE)
+#### 6a. Google Gemini API Key
 1. Go to https://aistudio.google.com
 2. Sign in with your Google account
 3. Click **"Get API Key"** → **"Create API key"**
 4. Copy the key (looks like `AIzaSy...`)
 
-#### 6b. Sarvam AI API Key (FREE ₹1,000 credits)
+#### 6b. Sarvam AI API Key
 1. Go to https://dashboard.sarvam.ai
 2. Sign up with your email
 3. Go to **Settings → API Keys** → Create a new key
 4. Copy the key
 
-#### 6c. Supabase (FREE database)
+#### 6c. Supabase 
 1. Go to https://supabase.com → **"Start your project"**
 2. Create a new project (choose any region)
 3. Go to **Settings → API**
 4. Copy:
    - **Project URL** (looks like `https://abcxyz.supabase.co`)
    - **Anon public key** (long string starting with `eyJ...`)
-5. Go to **SQL Editor** in Supabase, paste and run this SQL:
+5. Go to **SQL Editor** in Supabase, paste and run this SQL:(Currently not storing anything in the db)
 
 ```sql
 CREATE TABLE IF NOT EXISTS conversations (
