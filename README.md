@@ -186,7 +186,7 @@ If eligibility confirmed and lead_score is HIGH, end with:
 ```mermaid
 graph TD
     A[User speaks / types] --> B{Voice or Text?}
-    B -->|Voice| C[Sarvam AI STT\nSaarika v2]
+    B -->|Voice| C[Sarvam AI STT\nSaarika v2.5]
     B -->|Text| D[Direct Input]
     C --> D
     D --> E[RAG System\nChromaDB - Policy Lookup]
