@@ -7,12 +7,12 @@ Built with **Google Gemini 2.5 Flash** (free tier), **Sarvam AI** (free credits)
 
 ## 🆓 Free APIs Used
 
-| Service | Purpose | Free Tier |
+| Service | Purpose |
 |---|---|---|
-| **Google Gemini 2.5 Flash** | LLM Brain (language lock, entity extraction, tool calling) | 10 RPM / 250 requests/day — no credit card needed |
-| **Sarvam AI** | STT (Saarika v2) + TTS (Bulbul v2) for Indian languages | ₹1,000 free credits on signup at dashboard.sarvam.ai |
-| **Supabase** | PostgreSQL database for conversations & leads | 500 MB, unlimited API calls — free forever |
-| **ChromaDB** | Local vector DB for RAG (no API needed) | Fully local, 100% free |
+| **Google Gemini 2.5 Flash** | LLM Brain (language lock, entity extraction, tool calling) |
+| **Sarvam AI** | STT (Saarika v2.5) + TTS (Bulbul v2) for Indian languages |
+| **Supabase** | PostgreSQL database for conversations & leads |
+| **ChromaDB** | Local vector DB for RAG (no API needed) |
 
 ---
 
