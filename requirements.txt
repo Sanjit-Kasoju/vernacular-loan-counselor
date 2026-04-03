@@ -1,0 +1,7 @@
+streamlit>=1.40.0
+google-genai>=1.0.0
+supabase>=2.5.0
+chromadb>=0.6.0
+requests>=2.32.0
+python-dotenv>=1.0.0
+audio-recorder-streamlit>=0.0.10
