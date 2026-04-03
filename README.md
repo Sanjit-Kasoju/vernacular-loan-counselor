@@ -1,5 +1,9 @@
 # 🏠 Vernacular Loan Counselor — HomeFirst Finance
 
+
+https://github.com/user-attachments/assets/21b39add-958f-40b0-9d99-9e22ed5dcb98
+
+
 A voice-first AI agent that provides home loan counseling in Hindi, English, Marathi, and Tamil.
 Built with **Google Gemini 2.5 Flash** (free tier), **Sarvam AI** (free credits), and **Supabase** (free tier).
 
