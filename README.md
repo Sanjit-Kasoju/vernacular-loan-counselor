@@ -8,7 +8,7 @@ Built with **Google Gemini 2.5 Flash** (free tier), **Sarvam AI** (free credits)
 ## 🆓 Free APIs Used
 
 | Service | Purpose |
-|---|---|---|
+|---|---|
 | **Google Gemini 2.5 Flash** | LLM Brain (language lock, entity extraction, tool calling) |
 | **Sarvam AI** | STT (Saarika v2.5) + TTS (Bulbul v2) for Indian languages |
 | **Supabase** | PostgreSQL database for conversations & leads |
